@@ -519,7 +519,7 @@ function Dialogo16() {
     html += '    <p id="dialogo_16"></p>';
     html += '</div>';
  
-    html += '<button v onclick=" DialogoMO() "> CONTINUA</button>'
+    html += '<button class="btn-donate" onclick=" DialogoMO() "> CONTINUA</button>'
     html += '</div>';
  
 
