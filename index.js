@@ -21,7 +21,7 @@ function Dialogo2() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/2.jpg">';
+    html += '<img class="foto" src="2.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -57,7 +57,7 @@ function Dialogo3() {
 
     var  html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img src="fotos/3.jpg" class="foto">';
+    html += '<img src="3.jpg" class="foto">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -94,7 +94,7 @@ function Dialogo4() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/5.jpg">';
+    html += '<img class="foto" src="5.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += ' <img src="LIVRO.png" class="perfil">';
@@ -129,7 +129,7 @@ function Dialogo5() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/4.jpg">';
+    html += '<img class="foto" src="4.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -164,7 +164,7 @@ function Dialogo6() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/6.jpg">';
+    html += '<img class="foto" src="6.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -200,7 +200,7 @@ function Dialogo7() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/7.jpg">';
+    html += '<img class="foto" src="7.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -235,7 +235,7 @@ function Dialogo8() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/7.jpg">';
+    html += '<img class="foto" src="7.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -270,7 +270,7 @@ function Dialogo9() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/9.jpg">';
+    html += '<img class="foto" src="9.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -375,7 +375,7 @@ function Dialogo12() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto"src="fotos/15.jpg">';
+    html += '<img class="foto"src="15.jpg">';
     html += '</div>'; 
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -408,7 +408,7 @@ function Dialogo13() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/17.jpg">';
+    html += '<img class="foto" src="17.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -443,7 +443,7 @@ function Dialogo14() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/16.jpg">';
+    html += '<img class="foto" src="16.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -478,7 +478,7 @@ function Dialogo15() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/10.jpg">';
+    html += '<img class="foto" src="10.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -511,7 +511,7 @@ function Dialogo16() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/11.jpg">';
+    html += '<img class="foto" src="11.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -546,7 +546,7 @@ function DialogoMO() {
 
     var  html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/12.jpg">';
+    html += '<img class="foto" src="12.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -581,7 +581,7 @@ function Dialogo17() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/15.jpg">';
+    html += '<img class="foto" src="15.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -614,7 +614,7 @@ function Dialogo18() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/13.jpg">';
+    html += '<img class="foto" src="13.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -649,7 +649,7 @@ function Dialogo44() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/14.jpg">';
+    html += '<img class="foto" src="14.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -684,7 +684,7 @@ function Dialogo19() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/19.jpg">';
+    html += '<img class="foto" src="19.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -717,7 +717,7 @@ function Dialogo20() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/18.jpg">';
+    html += '<img class="foto" src="18.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -752,7 +752,7 @@ function Dialogo21() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/15.jpg">';
+    html += '<img class="foto" src="15.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -785,7 +785,7 @@ function Dialogo22() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/mokushiroku.jpg">';
+    html += '<img class="foto" src="mokushiroku.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -820,7 +820,7 @@ function Dialogo22() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/20.jpg">';
+    html += '<img class="foto" src="20.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -854,7 +854,7 @@ function Dialogo23() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/20.jpg">';
+    html += '<img class="foto" src="20.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="heroi.png" class="perfil">';
@@ -889,7 +889,7 @@ function Dialogo24() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/20.jpg">';
+    html += '<img class="foto" src="20.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="vilao.png" class="perfil">';
@@ -923,7 +923,7 @@ function Dialogo25() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/21.jpg">';
+    html += '<img class="foto" src="21.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
@@ -958,7 +958,7 @@ function Dialogo26() {
 
     var html = '<div class="inicio">';
     html += '<div class="figura">';
-    html += '<img class="foto" src="fotos/22.jpg">';
+    html += '<img class="foto" src="22.jpg">';
     html += '</div>';
     html += '<div class="container">';
     html += '  <img src="LIVRO.png" class="perfil">';
